@@ -76,15 +76,15 @@ The application operates on a robust backend system that integrates several comp
 
 ### Prerequisites
 
-- [Node.js & npm](https://nodejs.org/)
+- [Node.js & npm](https://nodejs.org/en)
 - [Python 3.8+](https://www.python.org/)
 - `pip` (Python package installer)
 
 ### Step 1: Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Nayabkhan123/HealthWiser
+cd HealthWiser
 ```
 
 ### Step 2: Set up the Python Backend
@@ -134,11 +134,11 @@ The Node.js server will run on `http://localhost:4000`.
 
 Once both servers are running, open your web browser and go to `http://localhost:4000`. The frontend will be served from the Node.js server and will communicate with the Flask backend through the proxy.
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 | Homepage | About Page | Prediction Result |
 | -------- | ---------- | ----------------- |
-|          |            |                   |
+|          |            |                   | -->
 
 ## 🤝 Contributing
 
@@ -153,5 +153,5 @@ This project is licensed under the MIT License.
 - **Nayab Khan**
 - **Email:** [nayab16366@gmail.com](mailto\:nayab16366@gmail.com)
 - **GitHub:** [https://github.com/Nayabkhan123](https://github.com/Nayabkhan123)
-- **LinkedIn:** [https://www.linkedin.com/in/nayabkhan123/](https://www.linkedin.com/in/nayabkhan123/)
+- **LinkedIn:** [https://www.linkedin.com/in/nayab-khan-b424152a5](https://www.linkedin.com/in/nayab-khan-b424152a5)
 
