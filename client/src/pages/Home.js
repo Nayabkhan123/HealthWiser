@@ -130,11 +130,10 @@ export default function Home() {
           <p className="text-red-600 mt-4 font-semibold">{error}</p>
         )}
       </section>
-
+      <div ref={resultsRef} className="w-full h-1">{" "}</div>
       {/* Results */}
       {result && (
         <section
-          ref={resultsRef}
           className="mt-20 w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
         >
           <ResultCard
